@@ -14,6 +14,6 @@ Please Follow the following Instructions to install Caffe on Jetson Xavier Board
 4. You can verify your installation by closing the current terminal window and opening a new terminal and excuting the following commands
 
     $ python3
-    >>> import numpy as np
-    >>> import caffe
+        
+        >>> import caffe
     
